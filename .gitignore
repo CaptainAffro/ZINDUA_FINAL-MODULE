@@ -14,3 +14,4 @@ __pycache__/
 # OS noise
 .DS_Store
 Thumbs.db
+potholes_detection project/dataset/
