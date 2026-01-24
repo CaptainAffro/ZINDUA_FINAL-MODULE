@@ -141,6 +141,8 @@ So the project uses:
 ```python
 k = hp.Choice("conv1_kernel", [3, 5])
 kernel_size = (k, k)
+```
+
 
 ### 🏁 Tuned Model Evaluation
 
